@@ -1,4 +1,5 @@
 import getMetroRoutes, { Route, VehicleDescription } from "./api/agencyRoutes";
+import SearchInput from "./components/searchInput";
 import getMetroVehicles, { Vehicle } from "./api/vehiclePositions";
 import VehicleDisplayer from "./components/vehicleDisplayer";
 
